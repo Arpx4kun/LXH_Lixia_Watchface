@@ -6,6 +6,9 @@
 
 ![alt text](表盘介绍.png)
 
+**项目视频链接：**https://www.bilibili.com/video/BV1wxBhBnEiL/
+
+
 ## 表盘元素
 表盘能清晰显示以下关键信息：
 - **时间** (时、分、秒)
